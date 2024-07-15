@@ -65,6 +65,7 @@ export const NETWORK_IDS = /* #__PURE__ */ {
   BTC: -200,
   Litecoin: -201,
   BCH: -202,
+  Base:8453,
   Tron: -10
 } as const
 
